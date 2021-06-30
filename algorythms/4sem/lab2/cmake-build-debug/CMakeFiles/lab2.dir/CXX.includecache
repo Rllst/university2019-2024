@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/library c++/Labsalg/algorythms/lab2/main.cpp
+tree.h
+D:/library c++/Labsalg/algorythms/lab2/tree.h
+iostream
+-
+
+D:/library c++/Labsalg/algorythms/lab2/tree.h
+iostream
+-
+

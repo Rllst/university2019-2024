@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/library c++/Labsalg/algorythms/lab3/main.cpp
+iostream
+-
+splay.h
+D:/library c++/Labsalg/algorythms/lab3/splay.h
+
+D:/library c++/Labsalg/algorythms/lab3/splay.h
+iostream
+-
+string
+-
+

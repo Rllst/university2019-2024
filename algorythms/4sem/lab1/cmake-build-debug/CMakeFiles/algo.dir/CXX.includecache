@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/library c++/Labsalg/algorythms/lab1/HumanResourceDepartment.cpp
+HumanResourceDepartment.h
+D:/library c++/Labsalg/algorythms/lab1/HumanResourceDepartment.h
+
+D:/library c++/Labsalg/algorythms/lab1/HumanResourceDepartment.h
+iostream
+-
+string
+-
+vector
+-
+
+D:/library c++/Labsalg/algorythms/lab1/main.cpp
+HumanResourceDepartment.h
+D:/library c++/Labsalg/algorythms/lab1/HumanResourceDepartment.h
+

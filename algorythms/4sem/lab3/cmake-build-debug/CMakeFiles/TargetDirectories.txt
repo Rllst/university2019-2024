@@ -1,0 +1,3 @@
+D:/library c++/Labsalg/algorythms/lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/library c++/Labsalg/algorythms/lab3/cmake-build-debug/CMakeFiles/lab3.dir
+D:/library c++/Labsalg/algorythms/lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
