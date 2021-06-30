@@ -1,0 +1,3 @@
+C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/CMakeFiles/Pac_Man.dir
+C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/CMakeFiles/rebuild_cache.dir

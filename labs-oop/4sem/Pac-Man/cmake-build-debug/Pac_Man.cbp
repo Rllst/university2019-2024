@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Pac_Man"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Pac_Man">
+				<Option output="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Pac_Man.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/."/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 Pac_Man"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Pac_Man/fast">
+				<Option output="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Pac_Man.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/."/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 Pac_Man/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/Animation.cpp">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/Animation.h">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/Console.cpp">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/Console.h">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/Directions.h">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/Engine.cpp">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/Engine.h">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/Entity.cpp">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/Entity.h">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/GameState.cpp">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/GameState.h">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/Ghost.cpp">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/Ghost.h">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/Labyrinth.cpp">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/Labyrinth.h">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/Main.cpp">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/PacMan.cpp">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/PacMan.h">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/PlayingState.cpp">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/PlayingState.h">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/Resources.cpp">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/Resources.h">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/StateManager.cpp">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/StateManager.h">
+			<Option target="Pac_Man"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/GitHub/Labs-oop/2sem/Pac-Man/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
